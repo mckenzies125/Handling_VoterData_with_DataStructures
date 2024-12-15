@@ -21,7 +21,7 @@ Program halts.
 
 4.) support <last-name> <first-name> <strength>
 
-Simulates contacting the voter named Mike Lewis, and hearing that their strength of support has increased by 20 points. Don't worry about how our volunteers determine that this is the case; they are highly trained! The initial strength of support of each voter should be set at 75.  You may assume that <strength> will be entered as a positive integer. That is, a voter's strength of support can only increase throughout the day. The purpose of keeping track of strength of support is to help determine which voter to drive to the polls next.
+Simulates contacting the voter named, and hearing that their strength of support has increased by 20 points. Don't worry about how our volunteers determine that this is the case; they are highly trained! The initial strength of support of each voter should be set at 75.  You may assume that <strength> will be entered as a positive integer. That is, a voter's strength of support can only increase throughout the day. The purpose of keeping track of strength of support is to help determine which voter to drive to the polls next.
 
 
 
