@@ -3,7 +3,7 @@ The purpose of this project was to build a system that encourages citizens to go
 
 1.) voter <last-name> <first-name> <age>
 
-Adds a new voter to the system. Last name and first name have no spaces or special characters, just letters. Age is an integer; you should make sure it is between 18 and 118, and if not, this voter "registration" withe system should be rejected. Your program should also reject a voter with the same first name, last name, and age, as a voter already in the system. Purple text is typed by the user, green text is output produced by your program.
+Adds a new voter to the system. Last name and first name have no spaces or special characters, just letters. Age is an integer; you should make sure it is between 18 and 118, and if not, this voter "registration" withe system should be rejected. Your program should also reject a voter with the same first name, last name, and age, as a voter already in the system.
 
 
 
